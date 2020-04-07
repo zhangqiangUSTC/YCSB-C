@@ -1,0 +1,17 @@
+[basic]
+bloomBits = 10
+maxFilesize = 2097152
+maxOpenfiles = 1000
+hierarchicalBloomflag = false
+openLog = true
+compressionFlag = false
+directIOFlag = true
+seekCompactionFlag = false
+statisticsOpen = true
+bloomType = 0
+LRUNum = 5
+FilterCapacityRatio = 4.2
+blockCacheSize = 8388608
+sizeRatio = 10
+hierarchicalBoomflag = true
+
